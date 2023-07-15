@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "paas-poc",
+    "slug": "paas-poc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
