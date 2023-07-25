@@ -1,15 +1,12 @@
 import { StatusBar } from "expo-status-bar";
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
-import { Button } from "paas-library";
 
 export default function App() {
   return (
     <View style={styles.container}>
       <Text>Running POC</Text>
-      <View style={styles.buttonWrapper}>
-        <Button />
-      </View>
+      <View style={styles.buttonWrapper}></View>
       <StatusBar style="auto" />
     </View>
   );
