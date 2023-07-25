@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Running POC</Text>
+      <Text>Running</Text>
       <View style={styles.buttonWrapper}></View>
       <StatusBar style="auto" />
     </View>
